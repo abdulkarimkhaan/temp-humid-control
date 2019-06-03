@@ -6,7 +6,7 @@
 // Date: 03 June 19
 // Version: 0.1a
 // Software platform:Arduino
-// Hardware platform:Arduino UNO/Seeeduino/Arduino Mega + 4-Digit Display
+// Hardware platform:Arduino UNO/Arduino Mega + 4-Digit Display
 //Features: 
 //Live monitoring of temperature and humidity
 //Set Temperature
